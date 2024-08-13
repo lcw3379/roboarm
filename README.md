@@ -2,14 +2,15 @@ Description is available at http://emanual.robotis.com/docs/en/software/dynamixe
 
 
 환경
-라즈베리파이 Ubuntu 22.04
-Python 3.11
+
+라즈베리파이 Ubuntu 22.04<br/>
+Python 3.11<br/>
 
 사용 라이브러리
-OpenCV
-PyQt
-MultiProcessing
-Dynamixel-SDK 
+OpenCV<br/>
+PyQt<br/>
+MultiProcessing<br/>
+Dynamixel-SDK <br/>
 
 
 ![image](https://github.com/user-attachments/assets/3dc8b785-f954-4851-967b-d7f735976306)
